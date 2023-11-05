@@ -1,3 +1,4 @@
 echo "This is just demo file for jenkins work"
 whoami
 touch file
+echo "This is last msg"
